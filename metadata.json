@@ -1,0 +1,6 @@
+{
+  "name": "MC ACCADAMY",
+  "description": "Premier German to Somali Online Course Marketplace (A1-B2) with Sifalo Pay & Stripe payment gateways, interactive curriculum, and student dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
